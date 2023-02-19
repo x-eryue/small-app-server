@@ -1,0 +1,119 @@
+[
+    {
+        "id": 101,
+        "lbt": [
+            {
+                "src": "http://127.0.0.1:3000/images/goods/101-1.jpg"
+            },
+            {
+                "src": "http://127.0.0.1:3000/images/goods/101-2.jpg"
+            },
+            {
+                "src": "http://127.0.0.1:3000/images/goods/101-3.jpg"
+            },
+            {
+                "src": "http://127.0.0.1:3000/images/goods/101-4.jpg"
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "lbt": [
+            {
+                "src": "http://127.0.0.1:3000/images/goods/102-1.jpg"
+            },
+            {
+                "src": "http://127.0.0.1:3000/images/goods/102-2.jpg"
+            },
+            {
+                "src": "http://127.0.0.1:3000/images/goods/102-3.jpg"
+            },
+            {
+                "src": "http://127.0.0.1:3000/images/goods/102-4.jpg"
+            },
+            {
+                "src": "http://127.0.0.1:3000/images/goods/102-5.jpg"
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "lbt": [
+            {
+                "src": "http://127.0.0.1:3000/images/goods/103-1.jpg"
+            },
+            {
+                "src": "http://127.0.0.1:3000/images/goods/103-2.jpg"
+            },
+            {
+                "src": "http://127.0.0.1:3000/images/goods/103-3.jpg"
+            },
+            {
+                "src": "http://127.0.0.1:3000/images/goods/103-4.jpg"
+            },
+            {
+                "src": "http://127.0.0.1:3000/images/goods/103-5.jpg"
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "lbt": [
+            {
+                "src": "http://127.0.0.1:3000/images/goods/104-1.jpg"
+            },
+            {
+                "src": "http://127.0.0.1:3000/images/goods/104-2.jpg"
+            },
+            {
+                "src": "http://127.0.0.1:3000/images/goods/104-3.jpg"
+            },
+            {
+                "src": "http://127.0.0.1:3000/images/goods/104-4.jpg"
+            },
+            {
+                "src": "http://127.0.0.1:3000/images/goods/104-5.jpg"
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "lbt": [
+            {
+                "src": "http://127.0.0.1:3000/images/goods/105-1.jpg"
+            },
+            {
+                "src": "http://127.0.0.1:3000/images/goods/105-2.jpg"
+            },
+            {
+                "src": "http://127.0.0.1:3000/images/goods/105-3.jpg"
+            },
+            {
+                "src": "http://127.0.0.1:3000/images/goods/105-4.jpg"
+            },
+            {
+                "src": "http://127.0.0.1:3000/images/goods/105-5.jpg"
+            },
+            {
+                "src": "http://127.0.0.1:3000/images/goods/105-6.jpg"
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "lbt": [
+            {
+                "src": "http://127.0.0.1:3000/images/goods/106-1.jpg"
+            },
+            {
+                "src": "http://127.0.0.1:3000/images/goods/106-2.jpg"
+            },
+            {
+                "src": "http://127.0.0.1:3000/images/goods/106-3.jpg"
+            },
+            {
+                "src": "http://127.0.0.1:3000/images/goods/106-4.jpg"
+            }
+        ]
+    }
+]

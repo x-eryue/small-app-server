@@ -1,0 +1,74 @@
+[
+    {
+        "id": 101,
+        "click": 1,
+        "title": "软萌卡通可爱羊驼注水热水袋汤婆子暖手宝迷你冲水暖水袋",
+        "add_time": "2023-02-19T14:09:42.896Z",
+        "img_url": "http://127.0.0.1:3000/images/goods/101-1.jpg",
+        "goods_no": "SD 0000011",
+        "zhai_yao": "软萌卡通可爱羊驼注水热水袋汤婆子暖手宝迷你冲水暖水袋",
+        "sell_price": 29.00,
+        "market_price": 58.00,
+        "stock_quantity": 669
+    },
+    {
+        "id": 102,
+        "click": 2,
+        "title": "日本进口SANADA厨房碗架 碟子沥水架 碗盘收纳架餐具收纳盒整理架",
+        "add_time": "2023-02-19T14:09:42.896Z",
+        "img_url": "http://127.0.0.1:3000/images/goods/102-1.jpg",
+        "goods_no": "SD 0000012",
+        "zhai_yao": "日本进口SANADA厨房碗架 碟子沥水架 碗盘收纳架餐具收纳盒整理架",
+        "sell_price": 9.90,
+        "market_price": 19.80,
+        "stock_quantity": 12624
+    },
+    {
+        "id": 103,
+        "click": 3,
+        "title": "诺诗曼珐琅彩水杯女花茶杯带盖玻璃杯茶杯家用办公室喝水泡茶杯子",
+        "add_time": "2023-02-19T14:09:42.896Z",
+        "img_url": "http://127.0.0.1:3000/images/goods/103-1.jpg",
+        "goods_no": "SD 0000013",
+        "zhai_yao": "诺诗曼珐琅彩水杯女花茶杯带盖玻璃杯茶杯家用办公室喝水泡茶杯子",
+        "sell_price": 219.00,
+        "market_price": 438.00,
+        "stock_quantity": 23235
+    },
+    {
+        "id": 104,
+        "click": 4,
+        "title": "陶瓷杯子马克杯带盖勺创意情侣早餐杯男女水杯牛奶杯家用咖啡杯P",
+        "add_time": "2023-02-19T14:09:42.896Z",
+        "img_url": "http://127.0.0.1:3000/images/goods/104-1.jpg",
+        "goods_no": "SD 0000014",
+        "zhai_yao": "陶瓷杯子马克杯带盖勺创意情侣早餐杯男女水杯牛奶杯家用咖啡杯P",
+        "sell_price": 5.80,
+        "market_price": 11.60,
+        "stock_quantity": 1753
+    },
+    {
+        "id": 105,
+        "click": 5,
+        "title": "秋冬季新款男士青少年宽松针织衫2020羊毛衫加绒加厚韩版学生毛衣",
+        "add_time": "2023-02-19T14:09:42.896Z",
+        "img_url": "http://127.0.0.1:3000/images/goods/105-1.jpg",
+        "goods_no": "SD 0000015",
+        "zhai_yao": "秋冬季新款男士青少年宽松针织衫2020羊毛衫加绒加厚韩版学生毛衣",
+        "sell_price": 49.00,
+        "market_price": 88.00,
+        "stock_quantity": 71221
+    },
+    {
+        "id": 106,
+        "click": 6,
+        "title": "卡通杯简约办公室水杯子女陶瓷杯定制logo马克杯情侣咖啡杯带盖勺",
+        "add_time": "2023-02-19T14:09:42.896Z",
+        "img_url": "http://127.0.0.1:3000/images/goods/106-1.jpg",
+        "goods_no": "SD 0000016",
+        "zhai_yao": "卡通杯简约办公室水杯子女陶瓷杯定制logo马克杯情侣咖啡杯带盖勺",
+        "sell_price": 8.50,
+        "market_price": 20.90,
+        "stock_quantity": 60
+    }
+]

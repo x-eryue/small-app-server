@@ -1,0 +1,9 @@
+[
+    {
+        "user_id": 1,
+        "user_name": "admin",
+        "user_pwd": "admin",
+        "nick_name": "用户昵称admin",
+        "user_avatar": "http://127.0.0.1:3000/images/user_avatar/default_1.jpg"
+    }
+]

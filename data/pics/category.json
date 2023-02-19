@@ -1,0 +1,22 @@
+[
+    {
+        "cateId": 1,
+        "title": "航海王"
+    },
+    {
+        "cateId": 2,
+        "title": "夏目友人帐"
+    },
+    {
+        "cateId": 3,
+        "title": "英雄联盟"
+    },
+    {
+        "cateId": 4,
+        "title": "深海"
+    },
+    {
+        "cateId": 5,
+        "title": "刺客伍六七"
+    }
+]

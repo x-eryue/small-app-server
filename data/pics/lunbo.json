@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "src": "http://127.0.0.1:3000/images/lunbo/lbt-1.jpg"
+    },
+    {
+        "id": 2,
+        "src": "http://127.0.0.1:3000/images/lunbo/lbt-2.jpg"
+    },
+    {
+        "id": 3,
+        "src": "http://127.0.0.1:3000/images/lunbo/lbt-3.jpg"
+    }
+]
