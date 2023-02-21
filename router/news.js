@@ -26,6 +26,7 @@ router.get("/getnewslist", async (req, res) => {
     message,
   });
 });
+// 2. 获取新闻详情
 router.get("/getnew/:newid", async (req, res) => {
   let { newid } = req.params;
   newid = Number.parseInt(newid);
