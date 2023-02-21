@@ -5,9 +5,7 @@
 const express = require("express");
 const router = express.Router();
 const { readFile, write } = require("../utils/utils_file");
-// 1.提交评论
-// /aip/getcomments/:artid?pageindex=number
-// 给三条数据吧
+// 2.获取评论
 router.get("/getcmts/:artid", async (req, res) => {
   let { artid } = req.params;
   let { pageindex } = req.query;
@@ -34,9 +32,8 @@ router.get("/getcmts/:artid", async (req, res) => {
     message,
   });
 });
-// 2.获取评论
+// 1.提交评论
 router.post("/postcmts/:artid", async (req, res) => {
-  console.log(111);
   let { artid } = req.params;
   let { content, user } = req.body.data;
   artid = Number.parseInt(artid);
@@ -46,9 +43,10 @@ router.post("/postcmts/:artid", async (req, res) => {
   try {
     const cmtJson = await readFile("data/comments/cmt-news.json");
     // 先处理有没有新闻ID
-    const checkData = cmtJson.filter((item) => item.news_id === 1)[0];
+    const checkData = cmtJson.filter((item) => item.news_id === artid)[0];
     let objCmt = null;
-    if (!checkData.news_id) {
+    console.log(!checkData);
+    if (!checkData) {
       // 没有时
       objCmt = {
         news_id: artid,
@@ -62,7 +60,7 @@ router.post("/postcmts/:artid", async (req, res) => {
           },
         ],
       };
-      checkData.unshift(objCmt);
+      cmtJson.unshift(objCmt);
     } else {
       objCmt = {
         user_id: user.user_id,
